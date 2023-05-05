@@ -11,6 +11,8 @@
 ## Antes de levantar la aplicación debes crear la base de datos, los bojetos están en:
 springboot.sql
 
+## Despues de crear la BD se debe configurar credenciales en:
+application.properties
 
 ## Compilar
 mvn clean 
